@@ -1,3 +1,7 @@
+
+packages:
+  - '.'
+
 pmOnFail: ignore
 
 minimumReleaseAgeExclude:
